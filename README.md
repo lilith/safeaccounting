@@ -48,6 +48,8 @@ Financial institutions which offer online banking *must* give users the ability 
 * Date completed
 * Description
 * State = [Completed, Pending]
+* Type = [Debit, Credit]
+* ACHClass = http://www.achdirect.com/resources/seccodes.asp
 
 
 ### Optional fields
