@@ -62,4 +62,10 @@ Financial institutions which offer online banking *must* give users the ability 
 
 
 
+## See also
+
+http://openhbci.sourceforge.net/
+
+http://www.ofx.net/AboutOFX/AboutOFX.aspx
+
 
